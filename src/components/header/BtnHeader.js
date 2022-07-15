@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/cvagus.pdf'
+import CV from '../../assets/newcv.pdf'
 
 const BtnHeader = () => {
   return (
