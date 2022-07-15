@@ -1,0 +1,56 @@
+header {
+    padding: 1rem;
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+}
+ .btn__header {
+    display: flex;
+    gap: 3px;
+    text-align: center;
+    justify-content: center;
+ }
+
+ .btn__header a:hover {
+    color: var(--color-white);
+    background: var(--color-primary);
+ }
+
+ .card-header {
+    color: var(--color-white);
+    background: var(--color-primary);
+ }
+
+ .card-header h4 {
+    font-family: 'Pacifico', cursive;
+ }
+
+ .header__image {
+    width: 100px;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+ }
+
+ .text-light {
+    color: var(--color-light);
+    font-size: 12px;
+ }
+
+ .medsos {
+   display: flex;
+   gap: 1rem;
+   align-items: center;
+   justify-content: center;
+   margin: 1rem 0;
+ }
+
+ .medsos a {
+   color: darkgrey;
+   font-size: 18px;
+   cursor: pointer;
+ }
+
+ .medsos a:hover {
+   color: black;
+ }

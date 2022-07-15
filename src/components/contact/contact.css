@@ -1,0 +1,11 @@
+.contact {
+    padding: 1rem;
+}
+
+textarea {
+    resize: none;
+}
+
+.test {
+    min-height: 200px;
+}

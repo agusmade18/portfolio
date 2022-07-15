@@ -1,0 +1,41 @@
+.about {
+    padding: 1rem;
+    
+}
+
+.hide__pendidikan {
+    opacity: 0;
+    transition: all 400ms ease;
+    height: 0;
+}
+
+.show__pendidikan {
+    opacity: 1;
+    transition: all 400ms ease;
+    height: max-content;
+}
+
+.pendidikan__header {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.pendidikan__body {
+    display: flex;
+    gap: 1rem;
+}
+
+.tahun {
+    font-weight: bold;
+}
+
+.nama__sekolah {
+    font-style: italic;
+}
+
+.pengalaman__isi {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 1rem;
+    column-gap: 2rem;
+}
