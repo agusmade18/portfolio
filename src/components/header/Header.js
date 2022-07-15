@@ -1,6 +1,6 @@
 import React from 'react'
 import BtnHeader from './BtnHeader'
-import MyPic from '../../assets/mypic.jpeg'
+import MyPic from '../../assets/pasfoto.jpg'
 import Medsos from './Medsos'
 import './header.css'
 
